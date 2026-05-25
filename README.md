@@ -4,17 +4,6 @@ A modern and full-featured MERN Stack Book Store application for browsing, searc
 
 \---
 
-# BookNest
-
-!\[MERN](https://img.shields.io/badge/MERN-Stack-green)
-!\[React](https://img.shields.io/badge/Frontend-React-blue)
-!\[Node.js](https://img.shields.io/badge/Backend-Node.js-success)
-!\[MongoDB](https://img.shields.io/badge/Database-MongoDB-brightgreen)
-!\[Express](https://img.shields.io/badge/Framework-Express-black)
-!\[License](https://img.shields.io/badge/License-MIT-yellow)
-!\[Responsive](https://img.shields.io/badge/UI-Responsive-orange)
-
-\---
 
 # Project Tagline
 
@@ -475,52 +464,7 @@ npm run build
 
 \---
 
-# Screenshots
 
-## Home Page
-
-```md
-Add screenshot here:
-screenshots/home-page.png
-```
-
-\---
-
-## Login Page
-
-```md
-Add screenshot here:
-screenshots/login-page.png
-```
-
-\---
-
-## Cart Page
-
-```md
-Add screenshot here:
-screenshots/cart-page.png
-```
-
-\---
-
-## Admin Dashboard
-
-```md
-Add screenshot here:
-screenshots/admin-dashboard.png
-```
-
-\---
-
-## Book Details Page
-
-```md
-Add screenshot here:
-screenshots/book-details-page.png
-```
-
-\---
 
 # Application Workflow
 
