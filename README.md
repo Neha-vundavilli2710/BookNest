@@ -326,6 +326,37 @@ Endpoint	Method	Purpose
 /api/admin/books/:id	PUT	Update Book
 /api/admin/books/:id	DELETE	Delete Book
 ---
+Screenshots
+Home Page
+```md
+Add screenshot here:
+screenshots/home-page.png
+```
+---
+Login Page
+```md
+Add screenshot here:
+screenshots/login-page.png
+```
+---
+Cart Page
+```md
+Add screenshot here:
+screenshots/cart-page.png
+```
+---
+Admin Dashboard
+```md
+Add screenshot here:
+screenshots/admin-dashboard.png
+```
+---
+Book Details Page
+```md
+Add screenshot here:
+screenshots/book-details-page.png
+```
+---
 Application Workflow
 ```text
 Frontend (React.js)
